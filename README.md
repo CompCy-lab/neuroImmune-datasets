@@ -9,8 +9,8 @@
 ### Tuddenham, 2025. 
 * Paper : https://link.springer.com/article/10.1007/s00401-025-02913-3#data-availability
 * Dataset : https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE204704
-** scRNA-seq from brain and spinal chord [9 ALS (5M, 4F)]
-** contains T cell cluster 
+**scRNA-seq from brain and spinal chord [9 ALS (5M, 4F)]
+**contains T cell cluster 
 
 ## Alzheimer's 
 
