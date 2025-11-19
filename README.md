@@ -1,4 +1,7 @@
 # Datasets used for neuroimmune studies 
+<p>
+  <img src="https://github.com/natalies-teaching/BCB726_Fall2025/blob/main/bcb726.png" width="350" />
+</p>
 
 ## ALS
 ### Takeuchi, Brain, 2025. snRNA-seq
