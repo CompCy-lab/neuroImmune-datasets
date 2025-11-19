@@ -2,7 +2,7 @@
 <p>
   <img src="https://github.com/CompCy-lab/neuroImmune-datasets/blob/main/Luvna_painting.jpg" width="350" />
 </p>
-(human donors, unless otherwise specified) 
+
 ## ALS
 ### Takeuchi, Brain, 2025. snRNA-seq
 * Paper : https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awaf426/8321227
