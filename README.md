@@ -1,5 +1,5 @@
 # Neuroinflammation related single-cell datasets 
-Human studies
+Data from human studies, unless otherwise specified 
 <p>
   <img src="https://github.com/CompCy-lab/neuroImmune-datasets/blob/main/Luvna_painting.jpg" width="350" />
 </p>
