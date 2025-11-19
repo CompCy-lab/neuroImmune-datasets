@@ -41,4 +41,8 @@ Data from human studies, unless otherwise specified
 
 ## Glioblastoma 
 
+### Ruiz-Moreno, Neuro-Oncology, 2025. scRNA-seq
+* Paper : https://academic.oup.com/neuro-oncology/article/27/9/2281/8123663#523447643
+* Dataset : https://cellxgene.cziscience.com/collections/999f2a15-3d7e-440b-96ae-2c806799c08c
+
 
