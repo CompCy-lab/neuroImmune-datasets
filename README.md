@@ -1,6 +1,6 @@
 # Datasets used for neuroimmune studies 
 <p>
-  <img src="https://github.com/natalies-teaching/BCB726_Fall2025/blob/main/bcb726.png" width="350" />
+  <img src="https://github.com/CompCy-lab/neuroImmune-datasets/blob/main/Luvna_painting.jpg" width="350" />
 </p>
 
 ## ALS
