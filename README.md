@@ -1,4 +1,4 @@
-# Datasets used for neuroimmune studies 
+# Neuroinflammation related single-cell datasets 
 <p>
   <img src="https://github.com/CompCy-lab/neuroImmune-datasets/blob/main/Luvna_painting.jpg" width="350" />
 </p>
@@ -24,6 +24,12 @@
 * has lymphocyte cluster
 
 ## Alzheimer's 
+
+### PsychAD, Scientific Data, 2024. snRNA-seq
+* Paper : https://www.nature.com/articles/s41597-025-04687-5 [one of many papers]
+* Small version of PsychAD dataset: https://www.synapse.org/Synapse:syn51188644
+* Larger version of dataset : https://cellxgene.cziscience.com/collections/84ce6837-548d-4a1f-919f-0bc0d9a3952f 
+* Contains CD8 T cells
 
 ## Multiple Sclerosis
 
